@@ -12,6 +12,8 @@ The company’s cybersecurity team then investigated the security event. They fo
 
 ## The Incident Report Analysis:
 
+[Google Docs Report Link](https://docs.google.com/document/d/18tSxze3bEGa7qiQUKUEai_5DbU4NFZFoArlCKOZTc0g/edit?usp=sharing)
+
 1. `Summary`
    
 The organization’s network recently experienced a DDoS attack which compromised the internal network for 2 hours and normal internal network traffic could not access any network resources. The attack was caused by an incoming flood of ICMP packets. After the cybersecurity team’s investigation, it was discovered that a malicious hacker had sent the ICMP flood through a vulnerability which is an unconfigured firewall. The team responded by blocking the attack and stopping all non-critical network services.

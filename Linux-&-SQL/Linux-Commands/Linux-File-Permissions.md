@@ -6,7 +6,8 @@ You are a security professional at a large organization. You mainly work with th
 Your task is to examine existing permissions on the file system. You’ll need to determine if the permissions match the authorization that should be given. If they do not match, you’ll need to modify the permissions to authorize the appropriate users and remove any unauthorized access.
 
 *[Google Docs Link](https://docs.google.com/document/d/1kNKLL0se_poximmwKpfahA_LdXjkcCsaepFtWx_BYcE/edit?usp=sharing)*
-Supporting Document: [Current file permissions in the directory]()
+
+Supporting Document: [Current file permissions in the directory](https://github.com/hush1a/Google-Cybersecurity-Certification/blob/main/Linux-%26-SQL/Linux-Commands/current_file_permissions.png)
 
 ## The Project in Markdown Form
 

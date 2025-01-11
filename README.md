@@ -19,9 +19,9 @@ These opportunities include:
 ● Creating or revising a resume
 
 
-This repository is for documenting hands-on projects and activities from the Google Cybersecurity Professional Certificate that i have completed.
-Here are the quick links for the activities from specific courses:
+*This repository is for documenting hands-on projects and activities from the Google Cybersecurity Professional Certificate that i have completed.
+Here are the quick links for the activities from specific courses:*
 
-[Networks and Network Security](https://github.com/hush1a/Google-Cybersecurity-Certification/tree/main/Network-Security)
+- [Networks and Network Security](https://github.com/hush1a/Google-Cybersecurity-Certification/tree/main/Network-Security)
 
-[Linux and SQL]()
+- [Linux and SQL]()

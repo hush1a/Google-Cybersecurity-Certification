@@ -25,3 +25,5 @@ Here are the quick links for the activities from specific courses:*
 - [Networks and Network Security](https://github.com/hush1a/Google-Cybersecurity-Certification/tree/main/Network-Security)
 
 - [Linux and SQL]()
+
+- [Assets, Threats, And Vulnerabilities]()

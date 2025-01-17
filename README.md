@@ -26,4 +26,4 @@ Here are the quick links for the activities from specific courses:*
 
 - [Linux and SQL]()
 
-- [Assets, Threats, And Vulnerabilities]()
+- [Assets, Threats, And Vulnerabilities](https://github.com/hush1a/Google-Cybersecurity-Certification/tree/main/Assets-and-Vulnerabilities)

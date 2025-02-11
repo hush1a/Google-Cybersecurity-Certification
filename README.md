@@ -30,4 +30,4 @@ Here are the quick links for the activities from specific courses:*
 
 - [Sound The Alarm: Detection and Response](https://github.com/hush1a/Google-Cybersecurity-Certification/tree/main/Incident-Response)
 
-- [Automate Cybersecurity Tasks With Python]()
+- [Automate Cybersecurity Tasks With Python](https://github.com/hush1a/Google-Cybersecurity-Certification/tree/main/Automate-Cybersecurity-Tasks-with-Python)

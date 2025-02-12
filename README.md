@@ -1,32 +1,37 @@
-# Google-Cybersecurity-Certification
-Throughout the certificate program, I had multiple opportunities to develop a cybersecurity portfolio to showcase my skills and knowledge.
-These opportunities include:
+# Google Cybersecurity Certification Portfolio
 
-● Conducting a security audit
+Throughout the Google Cybersecurity Professional Certificate program, I had multiple opportunities to develop a cybersecurity portfolio to showcase my skills and knowledge. These opportunities include:
 
-● Analyzing network structure and security
+- Conducting a security audit
+- Analyzing network structure and security
+- Using Linux commands to manage file permissions
+- Applying filters to SQL queries
+- Identifying vulnerabilities for a small business
+- Documenting incidents with an incident handler’s journal
+- Importing and parsing a text file in a security-related scenario
 
-● Using Linux commands to manage file permissions
+This repository documents the hands-on projects and activities I completed as part of the Google Cybersecurity Professional Certificate.
 
-● Applying filters to SQL queries
+## Hands-on Activities
+Below are links to the hands-on activities categorized by course:
 
-● Identifying vulnerabilities for a small business
+1. **[Networks and Network Security](https://github.com/hush1a/Google-Cybersecurity-Certification/tree/main/Network-Security)**  
+   *Includes network analysis, security configurations, and risk assessments.*
 
-● Documenting incidents with an incident handler’s journal
+2. **[Linux and SQL](https://github.com/hush1a/Google-Cybersecurity-Certification/tree/main/Linux-%26-SQL)**  
+   *Focuses on managing file permissions using Linux commands and applying SQL filters.*
 
-● Importing and parsing a text file in a security-related scenario
+3. **[Assets, Threats, and Vulnerabilities](https://github.com/hush1a/Google-Cybersecurity-Certification/tree/main/Assets-and-Vulnerabilities)**  
+   *Covers vulnerability assessments and risk mitigation strategies for businesses.*
+
+4. **[Sound The Alarm: Detection and Response](https://github.com/hush1a/Google-Cybersecurity-Certification/tree/main/Incident-Response)**  
+   *Documents incident response strategies and logs using an incident handler’s journal.*
+
+5. **[Automate Cybersecurity Tasks With Python](https://github.com/hush1a/Google-Cybersecurity-Certification/tree/main/Automate-Cybersecurity-Tasks-with-Python)**  
+   *Covers Python scripting for automating security-related tasks.*
 
 
-*This repository is for documenting hands-on projects and activities from the Google Cybersecurity Professional Certificate that i have completed.
-Here are the quick links for the activities from specific courses:*
+#### *Click on any of the links above to explore the respective hands-on activities.*
+#### *Each folder contains detailed documentation and code snippets for the activities.*
 
-- [Networks and Network Security](https://github.com/hush1a/Google-Cybersecurity-Certification/tree/main/Network-Security)
-
-- [Linux and SQL](https://github.com/hush1a/Google-Cybersecurity-Certification/tree/main/Linux-%26-SQL)
-
-- [Assets, Threats, And Vulnerabilities](https://github.com/hush1a/Google-Cybersecurity-Certification/tree/main/Assets-and-Vulnerabilities)
-
-- [Sound The Alarm: Detection and Response](https://github.com/hush1a/Google-Cybersecurity-Certification/tree/main/Incident-Response)
-
-- [Automate Cybersecurity Tasks With Python](https://github.com/hush1a/Google-Cybersecurity-Certification/tree/main/Automate-Cybersecurity-Tasks-with-Python)
-
+---

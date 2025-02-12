@@ -16,8 +16,6 @@ These opportunities include:
 
 ● Importing and parsing a text file in a security-related scenario
 
-● Creating or revising a resume
-
 
 *This repository is for documenting hands-on projects and activities from the Google Cybersecurity Professional Certificate that i have completed.
 Here are the quick links for the activities from specific courses:*
@@ -32,4 +30,3 @@ Here are the quick links for the activities from specific courses:*
 
 - [Automate Cybersecurity Tasks With Python](https://github.com/hush1a/Google-Cybersecurity-Certification/tree/main/Automate-Cybersecurity-Tasks-with-Python)
 
-- [Put it to Work: Prepare for Cybersecurity Jobs]()
